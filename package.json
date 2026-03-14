@@ -1,0 +1,22 @@
+{
+  "name": "pending-state",
+  "description": "Toggle pending state for any tab in Pulsar",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "./lib/main",
+  "repository": "https://github.com/asiloisad/pulsar-pending-state",
+  "keywords": [
+    "pending",
+    "tab",
+    "pane",
+    "preview"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "pending-state:toggle"
+    ]
+  },
+  "engines": {
+    "atom": ">=1.100.0 <2.0.0"
+  }
+}
