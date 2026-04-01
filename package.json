@@ -1,6 +1,6 @@
 {
   "name": "pending-state",
-  "description": "Toggle pending state for any tab in Pulsar",
+  "description": "Toggle pending state for any tab",
   "version": "1.0.1",
   "license": "MIT",
   "main": "./lib/main",

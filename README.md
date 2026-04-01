@@ -1,6 +1,6 @@
 # pending-state
 
-Toggle pending state for any tab in Pulsar.
+Toggle pending state for any tab
 
 ## Features
 
