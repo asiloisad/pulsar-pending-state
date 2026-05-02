@@ -1,7 +1,7 @@
 {
   "name": "pending-state",
   "description": "Toggle pending state for any tab",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "./lib/main",
   "repository": "https://github.com/asiloisad/pulsar-pending-state",
