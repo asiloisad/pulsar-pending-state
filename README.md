@@ -14,7 +14,7 @@ To install `pending-state` search for [pending-state](https://web.pulsar-edit.de
 
 Commands available in `atom-workspace`:
 
-- `pending-state:toggle`: <kbd>Shift+Escape</kbd> toggle pending state of the active tab in workspace center.
+- `pending-state:toggle`: toggle pending state of the active tab in workspace center.
 
 ## Contributing
 
