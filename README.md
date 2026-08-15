@@ -8,7 +8,7 @@ Toggle pending state for any tab
 
 ## Installation
 
-To install `pending-state` search for [pending-state](https://web.pulsar-edit.dev/packages/pending-state) in the Install pane of the Pulsar settings or run `ppm install pending-state`. Alternatively, you can run `ppm install asiloisad/pulsar-pending-state` to install a package directly from the GitHub repository.
+To install `pending-state` search for [pending-state](https://web.pulsar-edit.dev/packages/pending-state) in the Install pane of the Pulsar settings or run `ppm install pending-state`. Alternatively, you can run `ppm install asiloisad-pulsar/pending-state` to install a package directly from the GitHub repository.
 
 ## Commands
 
